@@ -9,13 +9,13 @@ https://discord.gg/DnwnCrvZv8
 Clone the project
 
 ```bash
-  git clone https://github.com/Kenokey/Tiktok-Zefoy-Generator
+  git clone https://github.com/ibrahimadaballi/Generator
 ```
 
 Go to the project directory
 
 ```bash
-  cd Tiktok-Zefoy-Generator
+  cd Generator
 ```
 
 Install dependencies
